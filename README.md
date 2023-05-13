@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham43920175" target="blank"><img src="https://img.shields.io/twitter/follow/shubham43920175?logo=twitter&style=for-the-badge" alt="shubham43920175" /></a> </p>
 
-- 🔭 I’m currently working on **Smart To Do**
+- 🔭 I’m currently working on **Gallery M3**
 
 - 🌱 I’m currently learning **Android JetPack Compose , Material Design 3, Android Development Skills**
 
